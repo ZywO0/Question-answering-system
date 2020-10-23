@@ -1,0 +1,32 @@
+Paris [Correct]
+Beijing
+London
+Rio
+Japanese
+French
+English [Correct]
+Chinese
+A
+B
+H [Correct]
+C
+The [Correct]
+A
+/
+Both of A and The
+March 25 
+March 21 [Correct]
+May 12 
+February 11 
+the,the  
+/ , /
+/ , a 
+/ , the [Correct]
+lung 
+heart
+eyes
+kidney 
+1066
+1969 
+1215
+2001
